@@ -67,9 +67,9 @@ Dự án được chia làm 3 tầng (Layers) hoạt động độc lập và so
 ---
 
 ## 👥 Phân công công việc (Team Members)
-* **Member 1 (Software & Image Processing):** Phát triển GUI Python, xử lý ảnh và thuật toán gửi nhận G-code.
-* **Member 2 (Firmware & G-code Parser):** Lập trình bộ dịch G-code trên STM32, quản lý luồng UART.
-* **Member 3 (Hardware & Motion Control):** Thiết kế khung cơ khí, đấu nối mạch điện, lập trình thuật toán nội suy Bresenham và điều khiển tín hiệu PWM/Timer.
+* **Nguyễn Hoàng Minh Phú (Software & Image Processing):** Phát triển GUI Python, xử lý ảnh và thuật toán gửi nhận G-code.
+* **Hà Trọng Sơn (Firmware & G-code Parser):** Lập trình bộ dịch G-code trên STM32, quản lý luồng UART.
+* **Lê Thanh Phong (Hardware & Motion Control):** Thiết kế khung cơ khí, đấu nối mạch điện, lập trình thuật toán nội suy Bresenham và điều khiển tín hiệu PWM/Timer.
 
 ---
 *Dự án được thực hiện nhằm mục đích nghiên cứu và học tập.*
