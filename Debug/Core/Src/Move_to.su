@@ -1,0 +1,3 @@
+Move_to.c:24:6:Move_X_To	32	static,ignoring_inline_asm
+Move_to.c:67:6:Move_Y_To	32	static,ignoring_inline_asm
+Move_to.c:103:6:Move_to	24	static
