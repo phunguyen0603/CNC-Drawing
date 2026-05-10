@@ -36,9 +36,9 @@ from math import sqrt
 # =============================================================================
 class Config:
     # --- Kích thước vùng vẽ (mm) ---
-    # Khổ giấy 3.5cm x 3.5cm
-    BED_WIDTH_MM = 35.0
-    BED_HEIGHT_MM = 35.0
+    # Khổ giấy 3.8cm x 3.8cm
+    BED_WIDTH_MM = 38.0
+    BED_HEIGHT_MM = 38.0
 
     # --- Xử lý ảnh ---
     IMAGE_RESIZE = 500          # Resize ảnh về max pixel này (giảm noise)
