@@ -7,7 +7,7 @@
 
 > **Dự án xây dựng một hệ thống máy vẽ 2D (CNC Plotter) chi phí thấp, tận dụng cơ cấu cơ khí từ ổ đĩa DVD cũ. Hệ thống được điều khiển bởi vi điều khiển STM32 và phần mềm xử lý ảnh trên máy tính.**
 
-[Chèn 1 tấm ảnh chụp góc rộng toàn cảnh Robot đang vẽ tại đây]
+<img src="images.jpg" width="600" alt="Toàn cảnh CNC Drawing">
 
 ---
 
