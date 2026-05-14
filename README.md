@@ -7,7 +7,7 @@
 
 > **Dự án xây dựng một hệ thống máy vẽ 2D (CNC Plotter) chi phí thấp, tận dụng cơ cấu cơ khí từ ổ đĩa DVD cũ. Hệ thống được điều khiển bởi vi điều khiển STM32 và phần mềm xử lý ảnh trên máy tính.**
 
-<img src="image.png" width="600" alt="Toàn cảnh CNC Drawing">
+<img src="1.jpg" width="600" alt="Toàn cảnh CNC Drawing">
 
 ---
 
@@ -39,7 +39,6 @@ Dự án được chia làm 3 tầng (Layers) hoạt động độc lập và so
 2. **Middle-Level (STM32 - Parser):** Tiếp nhận chuỗi ký tự qua UART, bóc tách dữ liệu (Parser) thành các tọa độ X, Y và lệnh nâng/hạ bút.
 3. **Low-Level (STM32 - Motion Control):** Sử dụng Hardware Timer ngắt để chạy thuật toán điều khiển động cơ bước và phát xung PWM điều khiển Servo.
 
-[Chèn 1 tấm ảnh Sơ đồ khối hệ thống (Block Diagram) tại đây]
 
 ---
 
@@ -54,7 +53,7 @@ Dự án được chia làm 3 tầng (Layers) hoạt động độc lập và so
 | **Mạch hạ áp LM2596** | Hạ 12V xuống 5V nuôi hệ thống Logic | 1 |
 | **Nguồn PD Trigger 12V** | Cấp nguồn chính cho CNC Shield | 1 |
 
-[Chèn 1 tấm ảnh chụp cận cảnh mạch điện / cách đi dây tại đây]
+<img src="image.png" width="600" alt="Toàn cảnh CNC Drawing">
 
 ---
 
